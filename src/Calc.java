@@ -1,7 +1,7 @@
 import java.util.Scanner;
-
+//hello
 public class Calc {
-//Hallo
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите выражение (например, 2 + 3):");
